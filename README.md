@@ -13,3 +13,12 @@
 ### Input:The program declares variables to store two numbers entered by the user through scanf().
 ### Process: It performs basic arithmetic calculations (addition, subtraction, multiplication, division, and modulus) on the stored inputs.
 ### Output:The program uses printf() to output the computed results clearly with explanatory text.
+
+## Exercise 3
+### textbook Reference:  Deitel, C How to Program (9th Edition), Chapter 4, Exercise 4.11
+### What the program does:The program prompts the user for a multiplier limit and calculates the corresponding sequence of multiples of 7, displaying each calculated term along with the final cumulative total.
+### Concepts used: for loop, integer variables, module operator, increment ++, scanf(), printf().
+### How it works:
+### Input: The program reads an integer n
+### Loop Iteration:A for loop runs from i = 1 up to 100 and increments it by 1 before going to the if condition. In each iteration, it calculates the sum.
+### Output & Processing: The program prints the sum using the printf()
