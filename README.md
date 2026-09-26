@@ -22,3 +22,10 @@
 ### Input: The program reads an integer n
 ### Loop Iteration:A for loop runs from i = 1 up to 100 and increments it by 1 before going to the if condition. In each iteration, it calculates the sum.
 ### Output & Processing: The program prints the sum using the printf()
+
+### Exercise 4
+### Category:Loops with calculations
+### Textbook Reference:Deitel, C How to Program (9th Edition), Chapter 4, Exercise 4.9
+### Problem Description:** This program asks the user how many integer values they want to process, reads those numbers one by one, and calculates their total sum and average.
+### Main Concepts Used: for loops, printf, scanf, if, double
+### How the Program Works: The program first takes an integer input representing the total count of values to read. It shows that the count is greater than zero to prevent division by zero. Then, a for loop runs count times, prompting for each integer and accumulating it into sum. Finally, it casts sum to a double to perform floating-point division for the average and prints the formatted results.
