@@ -34,3 +34,12 @@
 ### The else if branch checks if the second number is greater than the first.
 ### The final else branch executes if both numbers are equal.
 ### Output: The program prints a message stating which number is larger or that they are equal.
+
+### EXercise5(loops_with_calculations)
+### Source: Deitel & Deitel, C How to Program, 9th Edition, Chapter 4__, Exercise 4.9__.
+### What it does : A lightweight C program that calculates the cumulative sum and arithmetic average of a user-defined series of integers.
+## How It Works
+### User Input: Prompts the user to enter the total count of numbers .
+### Validation: Checks if count > 0. If invalid, the program terminates immediately with an error message.
+### Data Accumulation: Uses a for loop to prompt for each integer and adds it to a running total (sum).
+### Output: Calculates the average and prints both the total sum and average to the screen.*/
