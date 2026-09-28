@@ -52,3 +52,13 @@
 ### User Input:*Prompts the user for two integer base X and component Y
 ### Iterative Multiplication:Uses a while loop to multiply x by itself y times.
 ### Output:Displays the final computed power value.
+
+### Exercise 7(loop with decision)
+### Textbook Reference: Deitel & Deitel, *C How to Program* (9th Edition), Chapter 3 exercise 3.22
+### What the program does:Prompts the user to enter an integer and determines whether it is a prime number.
+### Concepts used:if else`logic, for loop, modulus operator (%), scanf(), printf().
+### How it works:
+### Input:eads an integer `num` from the user using `scanf()`.
+### Validation: Rejects values $\le 1$ since numbers less than or equal to 1 are not prime.
+### Prime Check:A `for` loop tests numbers from `2` up to `num / 2`. If `num % i == 0`, the number is composite and the program exits early.
+### Output: Prints whether the entered integer is a prime or not prime.*/
