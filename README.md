@@ -43,3 +43,12 @@
 ### Validation: Checks if count > 0. If invalid, the program terminates immediately with an error message.
 ### Data Accumulation: Uses a for loop to prompt for each integer and adds it to a running total (sum).
 ### Output: Calculates the average and prints both the total sum and average to the screen.*/
+ 
+ ### Exercise 6(loop with user input)
+### Exercise 3.6(loop_with_user_input)
+### textbook Reference:  Deitel, C How to Program (9th Edition), Chapter 3 , Exercise 3.6
+### How the Program Works
+### This program is a Sales-Commission Calculator designed to process weekly earnings for sales representatives
+### User Input:*Prompts the user for two integer base X and component Y
+### Iterative Multiplication:Uses a while loop to multiply x by itself y times.
+### Output:Displays the final computed power value.
