@@ -62,3 +62,12 @@
 ### Validation: Rejects values $\le 1$ since numbers less than or equal to 1 are not prime.
 ### Prime Check:A `for` loop tests numbers from `2` up to `num / 2`. If `num % i == 0`, the number is composite and the program exits early.
 ### Output: Prints whether the entered integer is a prime or not prime.*/
+
+Exercise 8(interactive console)
+### textbook Reference:  Deitel, C How to Program (9th Edition), Chapter 3 , Exercise 3.18
+### How the Program Works
+### This program is a Sales-Commission Calculator designed to process weekly earnings for sales representatives
+### Program Execution Flow
+### The program uses a while loop to continuously prompt for input using scanf[cite: 1].
+### The user enters a salesperson's gross sales in dollars
+### Entering -1 serves as the value to terminate the program loop
